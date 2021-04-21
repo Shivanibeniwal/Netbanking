@@ -1,6 +1,8 @@
 # Hopebanks
 A bank which doesn't let your hopes down.
 
+[HOME](home.html)
+
 [LOGIN](login.html)
 
 [ABOUT US](about.html)
