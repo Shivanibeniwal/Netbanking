@@ -5,7 +5,7 @@ A bank which doesn't let your hopes down.
 
 [ABOUT US](about.html)
 
-[SERVICES](services.html)
+[SERVICES](services.md)
 
 [NET BANKING](login.html)
 
