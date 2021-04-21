@@ -1,4 +1,5 @@
 # Hopebanks
 A bank which doesn't let your hopes down.
 
-LOGIN [click](login.html) here
+[LOGIN](login.html) here
+[ABOUT US](about.html)
