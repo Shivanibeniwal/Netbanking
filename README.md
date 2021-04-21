@@ -9,4 +9,4 @@ A bank which doesn't let your hopes down.
 
 [NET BANKING](login.html)
 
-[CONTACT US](contact.html)
+[CONTACT US](contact.md)
